@@ -1,1 +1,2 @@
-select * from sys.objects
+select * from sys.objects user master
+go
